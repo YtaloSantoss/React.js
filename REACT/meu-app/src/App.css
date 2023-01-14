@@ -1,0 +1,17 @@
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: rgb(41, 41, 41);
+  color: white;
+}
+
+.menu{
+  display: flex;
+  list-style: none;
+}
+
+.menu li{
+  margin-left:25px;
+}
