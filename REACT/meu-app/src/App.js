@@ -1,11 +1,13 @@
 import React from 'react';
-import Header from './Header';
+import Header from './Header'
+import Counter from './Counter'
 import './App.css';
 
 function App() {
   return (
     <Header name="ProgBr" links={["Sobre", "Comprar", "Contato","login"]}></Header>
-  );
+    <Counter></Counter>
+    );
 }
 
 export default App;
