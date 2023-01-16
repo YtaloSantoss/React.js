@@ -2,3 +2,13 @@
     margin: auto;
     max-width: 900px;
 }
+
+.done{
+    text-decoration: line-through;
+}
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
